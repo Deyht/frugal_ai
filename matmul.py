@@ -2,7 +2,7 @@
 import numpy as np
 import time
 
-def matmul_naive(A, B, M, N, K):
+def matmul_naive(A, B, C, M, N, K):
 	# Add your own naive 3-loop implementation here
 	return
 
